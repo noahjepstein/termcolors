@@ -52,24 +52,25 @@ fs.writeFile('~/config.itermcolors', iterm);
 
 | Name                    | ID            | Import | Export |
 |-------------------------|---------------|--------|--------|
-| Alacritty               | `alacritty`   | ✅      | ✅      |
-| Chrome Secure Shell     | `chromeshell` |        | ✅      |
-| Gnome                   | `gnome`       |        | ✅      |
-| Guake                   | `guake`       |        | ✅      |
-| iTerm                   | `iterm`       | ✅      | ✅      |
-| JSON                    | `json`        | ✅      | ✅      |
-| Konsole                 | `konsole`     |        | ✅      |
-| Linux Console           | `linux`       |        | ✅      |
-| MinTTY                  | `mintty`      |        | ✅      |
-| Putty                   | `putty`       |        | ✅      |
-| Simple Terminal         | `st`          |        | ✅      |
-| Terminal.app            | `terminalapp` | ✅      | ✅      |
-| Terminator              | `terminator`  |        | ✅      |
-| Termite                 | `termite`     | ✅      | ✅      |
-| Plain Text              | `text`        |        | ✅      |
-| Sublime Text / Textmate | `textmate`    |        | ✅      |
-| XFCE4 Terminal          | `xfce`        |        | ✅      |
-| Xresources              | `xresources`  | ✅      | ✅      |
+| Alacritty               | `alacritty`   | ✅     | ✅     |
+| Chrome Secure Shell     | `chromeshell` |        | ✅     |
+| Gnome                   | `gnome`       |        | ✅     |
+| Guake                   | `guake`       |        | ✅     |
+| iTerm                   | `iterm`       | ✅     | ✅     |
+| JSON                    | `json`        | ✅     | ✅     |
+| Kitty                   | `kitty`       |        | ✅     |
+| Konsole                 | `konsole`     |        | ✅     |
+| Linux Console           | `linux`       |        | ✅     |
+| MinTTY                  | `mintty`      |        | ✅     |
+| Putty                   | `putty`       |        | ✅     |
+| Simple Terminal         | `st`          |        | ✅     |
+| Terminal.app            | `terminalapp` | ✅     | ✅     |
+| Terminator              | `terminator`  |        | ✅     |
+| Termite                 | `termite`     | ✅     | ✅     |
+| Plain Text              | `text`        |        | ✅     |
+| Sublime Text / Textmate | `textmate`    |        | ✅     |
+| XFCE4 Terminal          | `xfce`        |        | ✅     |
+| Xresources              | `xresources`  | ✅     | ✅     |
 
 ## DIY Export
 
